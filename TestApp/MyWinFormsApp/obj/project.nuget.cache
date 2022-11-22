@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Ht/qUATqaWUSfxb2UbcteD/tiAy4pbR5Cnnxy8eqtd5+gtb/ttEsDkmBvXlSSghx5yP5gQiZ+sj3Bnc9IsaDQ==",
+  "dgSpecHash": "SprIxD4ewNP1RdatgcikGAt2hgNUjWxoXG4qLoRSzIYkuRK/IleC+L5jlKzBDXIxZkXszYuypb9CF7Q7t1sFHQ==",
   "success": true,
-  "projectFilePath": "D:\\ABCis\\MyWinFormsApp\\MyWinFormsApp\\MyWinFormsApp.csproj",
+  "projectFilePath": "D:\\ABCis\\AutoUpdate\\WinFormAppWithAutoUpdate\\TestApp\\MyWinFormsApp\\MyWinFormsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\raina.george\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\raina.george\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ABCis\\MyWinFormsApp\\MyWinFormsApp\\MyWinFormsApp.csproj": {}
+    "D:\\ABCis\\AutoUpdate\\WinFormAppWithAutoUpdate\\TestApp\\MyWinFormsApp\\MyWinFormsApp.csproj": {}
   },
   "projects": {
-    "D:\\ABCis\\MyWinFormsApp\\MyWinFormsApp\\MyWinFormsApp.csproj": {
+    "D:\\ABCis\\AutoUpdate\\WinFormAppWithAutoUpdate\\TestApp\\MyWinFormsApp\\MyWinFormsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ABCis\\MyWinFormsApp\\MyWinFormsApp\\MyWinFormsApp.csproj",
+        "projectUniqueName": "D:\\ABCis\\AutoUpdate\\WinFormAppWithAutoUpdate\\TestApp\\MyWinFormsApp\\MyWinFormsApp.csproj",
         "projectName": "MyWinFormsApp",
-        "projectPath": "D:\\ABCis\\MyWinFormsApp\\MyWinFormsApp\\MyWinFormsApp.csproj",
+        "projectPath": "D:\\ABCis\\AutoUpdate\\WinFormAppWithAutoUpdate\\TestApp\\MyWinFormsApp\\MyWinFormsApp.csproj",
         "packagesPath": "C:\\Users\\raina.george\\.nuget\\packages\\",
-        "outputPath": "D:\\ABCis\\MyWinFormsApp\\MyWinFormsApp\\obj\\",
+        "outputPath": "D:\\ABCis\\AutoUpdate\\WinFormAppWithAutoUpdate\\TestApp\\MyWinFormsApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\raina.george\\AppData\\Roaming\\NuGet\\NuGet.Config",
