@@ -1,0 +1,8 @@
+D:\ABCis\AutoUpdate\WinFormAppWithAutoUpdate\published\MyWinFormsApp.exe
+D:\ABCis\AutoUpdate\WinFormAppWithAutoUpdate\published\MyWinFormsApp.dll
+D:\ABCis\AutoUpdate\WinFormAppWithAutoUpdate\published\MyWinFormsApp.deps.json
+D:\ABCis\AutoUpdate\WinFormAppWithAutoUpdate\published\MyWinFormsApp.runtimeconfig.json
+D:\ABCis\AutoUpdate\WinFormAppWithAutoUpdate\published\MyWinFormsApp.pdb
+D:\ABCis\AutoUpdate\WinFormAppWithAutoUpdate\published\System.Net.Http.Formatting.dll
+D:\ABCis\AutoUpdate\WinFormAppWithAutoUpdate\published\Newtonsoft.Json.dll
+D:\ABCis\AutoUpdate\WinFormAppWithAutoUpdate\published\Newtonsoft.Json.Bson.dll
