@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {
+    "net6.0-windows10.0.19041": {
       "Microsoft.AspNet.WebApi.Client/5.2.9": {
         "type": "package",
         "dependencies": {
@@ -4560,7 +4560,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": [
+    "net6.0-windows10.0.19041": [
       "Microsoft.AspNet.WebApi.Client >= 5.2.9",
       "Newtonsoft.Json >= 13.0.1"
     ]
@@ -4571,26 +4571,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ABCis\\AutoUpdate\\WinFormAppWithAutoUpdate\\TestApp\\MyWinFormsApp\\MyWinFormsApp.csproj",
+      "projectUniqueName": "D:\\ABCis\\AutoUpdateNew\\WinFormAppWithAutoUpdate\\TestApp\\MyWinFormsApp\\MyWinFormsApp.csproj",
       "projectName": "MyWinFormsApp",
-      "projectPath": "D:\\ABCis\\AutoUpdate\\WinFormAppWithAutoUpdate\\TestApp\\MyWinFormsApp\\MyWinFormsApp.csproj",
+      "projectPath": "D:\\ABCis\\AutoUpdateNew\\WinFormAppWithAutoUpdate\\TestApp\\MyWinFormsApp\\MyWinFormsApp.csproj",
       "packagesPath": "C:\\Users\\raina.george\\.nuget\\packages\\",
-      "outputPath": "D:\\ABCis\\AutoUpdate\\WinFormAppWithAutoUpdate\\TestApp\\MyWinFormsApp\\obj\\",
+      "outputPath": "D:\\ABCis\\AutoUpdateNew\\WinFormAppWithAutoUpdate\\TestApp\\MyWinFormsApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\raina.george\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows7.0"
+        "net6.0-windows10.0.19041"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
+        "net6.0-windows10.0.19041": {
+          "targetAlias": "net6.0-windows10.0.19041.0",
           "projectReferences": {}
         }
       },
@@ -4601,8 +4601,8 @@
       }
     },
     "frameworks": {
-      "net6.0-windows7.0": {
-        "targetAlias": "net6.0-windows",
+      "net6.0-windows10.0.19041": {
+        "targetAlias": "net6.0-windows10.0.19041.0",
         "dependencies": {
           "Microsoft.AspNet.WebApi.Client": {
             "target": "Package",
@@ -4623,8 +4623,17 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.Windows.SDK.NET.Ref",
+            "version": "[10.0.19041.26, 10.0.19041.26]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Windows.SDK.NET.Ref": {
             "privateAssets": "all"
           },
           "Microsoft.WindowsDesktop.App.WindowsForms": {
